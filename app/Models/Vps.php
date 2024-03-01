@@ -14,5 +14,6 @@ class Vps extends Model
         'password',
         'server_info',
         'status'
+        'vpn-proxe',
     ];
 }
